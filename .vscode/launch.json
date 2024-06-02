@@ -1,0 +1,26 @@
+{
+  
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaBanco",
+            "request": "launch",
+            "mainClass": "ContaBanco",
+            "projectName": "conta-banco_57fd1c2b"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "conta-banco_57fd1c2b"
+        }
+    ]
+}
